@@ -1244,7 +1244,7 @@ CH4(g)
 #Amm(g)
 #	Amm = Amm
 NH3(g)
-	NH3 = NH3	
+	NH3 = NH3
 	-log_k 1.7966
 	-analytic -18.758 3.367e-4 2.5113e3 4.8619 39.192
 	-T_c 405.6; -P_c 111.3; -Omega 0.25
